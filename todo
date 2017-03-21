@@ -1,0 +1,39 @@
+Software Design
+
+Screens
+No login
+Booking Form
+    Choose name
+    Choose Kit
+    Kit avaiablity shown
+    User given serial number
+    Email integration
+    Email Reminders when kit due back
+Admin Form (Login)
+    Shows all items and who with
+    Can manually fire off reminder email
+
+Database: Equipment
+Tables:
+Equipment
+Loans
+
+
+<<<<<<<<Todo>>>>>>>>>>
+Send email when booked - half done - check on AWS
+Browse : show booked items and free dates - done
+
+Prevent reposting and hacking (set sessions)
+
+Admin :
+loans (book out/book in) - done
+Booking: set return date - optional -  manually override reutrn date
+Authentication - done
+
+
+Maintain listings (upload images, edit status) - todo
+Sub menus
+Show thumbnails on browse screen?
+
+Upload to AWS
+

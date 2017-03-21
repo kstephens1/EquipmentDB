@@ -1,0 +1,5 @@
+"id","date_out","date_due_in","date_requested","firstname","surname","email","purpose","item_id","date_returned","return_logged_by","loan_released_by","booked","loaned","returned"
+209,NULL,NULL,"2013-10-07 10:39:37","Firstname","Surname","kstephens1@gmail.com","blah",4,NULL,NULL,NULL,1,NULL,NULL
+210,NULL,NULL,"2013-10-07 10:44:51","Firstname","Surname","kstephens1@gmail.com","blah",7,NULL,NULL,NULL,1,1,NULL
+211,NULL,NULL,"2013-10-07 10:44:51","Firstname","Surname","kstephens1@gmail.com","blah",8,NULL,NULL,NULL,1,1,1
+212,NULL,NULL,"2013-10-07 10:44:51","Firstname","Surname","kstephens1@gmail.com","blah",1,NULL,NULL,NULL,1,NULL,NULL
